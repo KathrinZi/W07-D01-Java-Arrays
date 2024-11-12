@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/W07-D01-Java-Arrays.iml" filepath="$PROJECT_DIR$/W07-D01-Java-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysLesson/arraysLesson.iml" filepath="$PROJECT_DIR$/arraysLesson/arraysLesson.iml" />
+    </modules>
+  </component>
+</project>
